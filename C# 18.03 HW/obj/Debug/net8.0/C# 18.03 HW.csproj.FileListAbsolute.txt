@@ -1,0 +1,14 @@
+C:\Users\rysya\Desktop\C# 18.03 HW\C# 18.03 HW\bin\Debug\net8.0\C# 18.03 HW.exe
+C:\Users\rysya\Desktop\C# 18.03 HW\C# 18.03 HW\bin\Debug\net8.0\C# 18.03 HW.deps.json
+C:\Users\rysya\Desktop\C# 18.03 HW\C# 18.03 HW\bin\Debug\net8.0\C# 18.03 HW.runtimeconfig.json
+C:\Users\rysya\Desktop\C# 18.03 HW\C# 18.03 HW\bin\Debug\net8.0\C# 18.03 HW.dll
+C:\Users\rysya\Desktop\C# 18.03 HW\C# 18.03 HW\bin\Debug\net8.0\C# 18.03 HW.pdb
+C:\Users\rysya\Desktop\C# 18.03 HW\C# 18.03 HW\obj\Debug\net8.0\C# 18.03 HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rysya\Desktop\C# 18.03 HW\C# 18.03 HW\obj\Debug\net8.0\C# 18.03 HW.AssemblyInfoInputs.cache
+C:\Users\rysya\Desktop\C# 18.03 HW\C# 18.03 HW\obj\Debug\net8.0\C# 18.03 HW.AssemblyInfo.cs
+C:\Users\rysya\Desktop\C# 18.03 HW\C# 18.03 HW\obj\Debug\net8.0\C# 18.03 HW.csproj.CoreCompileInputs.cache
+C:\Users\rysya\Desktop\C# 18.03 HW\C# 18.03 HW\obj\Debug\net8.0\C# 18.03 HW.dll
+C:\Users\rysya\Desktop\C# 18.03 HW\C# 18.03 HW\obj\Debug\net8.0\refint\C# 18.03 HW.dll
+C:\Users\rysya\Desktop\C# 18.03 HW\C# 18.03 HW\obj\Debug\net8.0\C# 18.03 HW.pdb
+C:\Users\rysya\Desktop\C# 18.03 HW\C# 18.03 HW\obj\Debug\net8.0\C# 18.03 HW.genruntimeconfig.cache
+C:\Users\rysya\Desktop\C# 18.03 HW\C# 18.03 HW\obj\Debug\net8.0\ref\C# 18.03 HW.dll

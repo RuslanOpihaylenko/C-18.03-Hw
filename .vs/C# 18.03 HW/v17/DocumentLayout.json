@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rysya\\Desktop\\C# 18.03 HW\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9846C503-4187-460F-87FA-7E458E577CF3}|C# 18.03 HW\\C# 18.03 HW.csproj|c:\\users\\rysya\\desktop\\c# 18.03 hw\\c# 18.03 hw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9846C503-4187-460F-87FA-7E458E577CF3}|C# 18.03 HW\\C# 18.03 HW.csproj|solutionrelative:c# 18.03 hw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9846C503-4187-460F-87FA-7E458E577CF3}|C# 18.03 HW\\C# 18.03 HW.csproj|c:\\users\\rysya\\desktop\\c# 18.03 hw\\c# 18.03 hw\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9846C503-4187-460F-87FA-7E458E577CF3}|C# 18.03 HW\\C# 18.03 HW.csproj|solutionrelative:c# 18.03 hw\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\rysya\\Desktop\\C# 18.03 HW\\C# 18.03 HW\\Product.cs",
+              "RelativeDocumentMoniker": "C# 18.03 HW\\Product.cs",
+              "ToolTip": "C:\\Users\\rysya\\Desktop\\C# 18.03 HW\\C# 18.03 HW\\Product.cs",
+              "RelativeToolTip": "C# 18.03 HW\\Product.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAmwB0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T14:04:51.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rysya\\Desktop\\C# 18.03 HW\\C# 18.03 HW\\Program.cs",
+              "RelativeDocumentMoniker": "C# 18.03 HW\\Program.cs",
+              "ToolTip": "C:\\Users\\rysya\\Desktop\\C# 18.03 HW\\C# 18.03 HW\\Program.cs",
+              "RelativeToolTip": "C# 18.03 HW\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA6wBoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:58:53.807Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
