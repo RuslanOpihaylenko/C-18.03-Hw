@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{9846C503-4187-460F-87FA-7E458E577CF3}|C# 18.03 HW\\C# 18.03 HW.csproj|solutionrelative:c# 18.03 hw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{9846C503-4187-460F-87FA-7E458E577CF3}|C# 18.03 HW\\C# 18.03 HW.csproj|c:\\users\\rysya\\desktop\\c# 18.03 hw\\c# 18.03 hw\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9846C503-4187-460F-87FA-7E458E577CF3}|C# 18.03 HW\\C# 18.03 HW.csproj|solutionrelative:c# 18.03 hw\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9846C503-4187-460F-87FA-7E458E577CF3}|C# 18.03 HW\\C# 18.03 HW.csproj|c:\\users\\rysya\\desktop\\c# 18.03 hw\\c# 18.03 hw\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9846C503-4187-460F-87FA-7E458E577CF3}|C# 18.03 HW\\C# 18.03 HW.csproj|solutionrelative:c# 18.03 hw\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -18,17 +22,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Shop.cs",
+              "DocumentMoniker": "C:\\Users\\rysya\\Desktop\\C# 18.03 HW\\C# 18.03 HW\\Shop.cs",
+              "RelativeDocumentMoniker": "C# 18.03 HW\\Shop.cs",
+              "ToolTip": "C:\\Users\\rysya\\Desktop\\C# 18.03 HW\\C# 18.03 HW\\Shop.cs",
+              "RelativeToolTip": "C# 18.03 HW\\Shop.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T15:04:07.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\rysya\\Desktop\\C# 18.03 HW\\C# 18.03 HW\\Product.cs",
               "RelativeDocumentMoniker": "C# 18.03 HW\\Product.cs",
               "ToolTip": "C:\\Users\\rysya\\Desktop\\C# 18.03 HW\\C# 18.03 HW\\Product.cs",
               "RelativeToolTip": "C# 18.03 HW\\Product.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAmwB0AAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-24T14:04:51.607Z",
               "EditorCaption": ""
@@ -41,7 +58,7 @@
               "RelativeDocumentMoniker": "C# 18.03 HW\\Program.cs",
               "ToolTip": "C:\\Users\\rysya\\Desktop\\C# 18.03 HW\\C# 18.03 HW\\Program.cs",
               "RelativeToolTip": "C# 18.03 HW\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAA6wBoAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBQAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-24T13:58:53.807Z",
               "EditorCaption": ""

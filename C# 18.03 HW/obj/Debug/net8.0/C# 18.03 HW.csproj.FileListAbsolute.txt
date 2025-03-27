@@ -12,3 +12,4 @@ C:\Users\rysya\Desktop\C# 18.03 HW\C# 18.03 HW\obj\Debug\net8.0\refint\C# 18.03 
 C:\Users\rysya\Desktop\C# 18.03 HW\C# 18.03 HW\obj\Debug\net8.0\C# 18.03 HW.pdb
 C:\Users\rysya\Desktop\C# 18.03 HW\C# 18.03 HW\obj\Debug\net8.0\C# 18.03 HW.genruntimeconfig.cache
 C:\Users\rysya\Desktop\C# 18.03 HW\C# 18.03 HW\obj\Debug\net8.0\ref\C# 18.03 HW.dll
+C:\Users\rysya\Desktop\C# 18.03 HW\C# 18.03 HW\obj\Debug\net8.0\C# 18.03 HW.sourcelink.json
